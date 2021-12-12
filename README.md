@@ -5,7 +5,7 @@ Title : Quiz App
 
 Created By : 19012011026_Om Patel
 
-Description : I created a quiz application using Kotlin language in android studio. This app lets you take a simple quiz based on the flags of differnet countries.
+Description : I created a quiz application using Kotlin language in android studio. This app lets you take a simple quiz based on the flags of different countries.
 
 Language : Kotlin
 
